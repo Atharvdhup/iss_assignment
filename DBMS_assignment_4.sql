@@ -27,7 +27,7 @@ DELIMITER ;
 -- Use CallableStatement to call the stored procedure
 -- This can be done in a Java application, for example
 -- In MySQL Workbench, you can use CALL GetEmployeeBySalary(70000);
--- Here, let's simulate the Java code using a prepared statement
+
 DELIMITER //
 CREATE PROCEDURE GetEmployeeBySalaryJava(IN minSalary INT)
 BEGIN
