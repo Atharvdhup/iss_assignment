@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Sainath</name>
+        <age>25</age>
+        <subjects>
+            <subject>English</subject>
+            <subject>Maths</subject>
+            <subject>Hindi</subject>
+            <subject>Marathi</subject>
+        </subjects>
+    </student>
+    <student>
+        <name>Atharv</name>
+        <age>22</age>
+        <subjects>
+            <subject>Physics</subject>
+            <subject>Chemistry</subject>
+            <subject>Maths</subject>
+            <subject>Computer Science</subject>
+        </subjects>
+    </student>
+    <student>
+        <name>Snehal</name>
+        <age>23</age>
+        <subjects>
+            <subject>History</subject>
+            <subject>Geography</subject>
+            <subject>Political Science</subject>
+            <subject>Economics</subject>
+        </subjects>
+    </student>
+</students>
